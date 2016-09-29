@@ -1,2 +1,3 @@
-# Location_ads
-Send ads based on location
+# Ads_demo
+
+a [Sails](http://sailsjs.org) application
